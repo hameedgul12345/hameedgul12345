@@ -11,7 +11,6 @@ Hello! I'm Hameed Gul, a dedicated Web Developer with a passion for creating dyn
 - 📫 How to reach me: hamidkhan31590@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Instead of counting sheep to fall asleep, I count lines of code in my head. It's surprisingly effective!
-- 
 ---
 ## 🚀 Skills and Expertise
 
