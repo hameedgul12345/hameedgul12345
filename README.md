@@ -52,6 +52,7 @@ Here are some of my key projects:
 ## 📚 Education
 
 - **Bachelor’s in Computer Science** – University of Peshawar
+- **FSc Pre-Engineering** – Government College Peshawar
 ---
 
 
