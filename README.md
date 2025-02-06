@@ -28,20 +28,22 @@ Hello! I'm Hameed Gul, a dedicated Web Developer with a passion for creating dyn
 ## 📁 Projects
 
 Here are some of my key projects:
-
-1. **E-commerce Platform**  
-   - Developed a full-stack e-commerce platform with secure payment integration, user authentication, and an intuitive admin panel for inventory management.
-   - Technologies: React, Node.js, Express, MongoDB, Stripe API
-
-2. **Personal Portfolio Website**  
+## Doctor Admin Panel - React App
+1. **🚀 Project Summary**  
+  The Doctor Admin Panel is a React-based dashboard for managing hospital operations efficiently. It provides an intuitive interface for doctors and administrators to handle patient records, prescriptions, and other essential healthcare tasks.
+**🛠️ Technologies Used**
+- React.js (Frontend)
+- React Router (Navigation)
+- Tailwind CSS (Styling)
+3. **Personal Portfolio Website**  
    - Created a responsive personal portfolio website showcasing my skills, projects, and contact information, utilizing animations and modern web design trends.
    - Technologies: HTML, CSS, JavaScript, GSAP
 
-3. **Real-Time Chat Application**  
+4. **Real-Time Chat Application**  
    - Built a real-time chat application with private and group chat features, powered by WebSockets and Node.js.
    - Technologies: React, Socket.io, Express, MongoDB
 
-4. **Blog CMS**  
+5. **Blog CMS**  
    - Developed a content management system (CMS) for bloggers with a user-friendly interface, allowing easy content creation, editing, and publishing.
    - Technologies: Angular, Node.js, Express, MySQL
      
