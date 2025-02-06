@@ -35,6 +35,8 @@ Here are some of my key projects:
 - React.js (Frontend)
 - React Router (Navigation)
 - Tailwind CSS (Styling)
+**🔗 Live Demo (Optional)**
+  https://doctor-admin-panel-pink.vercel.app
 3. **Personal Portfolio Website**  
    - Created a responsive personal portfolio website showcasing my skills, projects, and contact information, utilizing animations and modern web design trends.
    - Technologies: HTML, CSS, JavaScript, GSAP
