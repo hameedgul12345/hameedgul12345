@@ -36,7 +36,7 @@ Here are some of my key projects:
 - React Router (Navigation)
 - Tailwind CSS (Styling)
 
-**🔗 Live Demo **
+**🔗 Live Demo**
 
   https://doctor-admin-panel-pink.vercel.app
   
