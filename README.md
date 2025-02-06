@@ -31,6 +31,7 @@ Here are some of my key projects:
 ## Doctor Admin Panel - React App
 1. **🚀 Project Summary**  
   The Doctor Admin Panel is a React-based dashboard for managing hospital operations efficiently. It provides an intuitive interface for doctors and administrators to handle patient records, prescriptions, and other essential healthcare tasks.
+
 **🛠️ Technologies Used**
 - React.js (Frontend)
 - React Router (Navigation)
