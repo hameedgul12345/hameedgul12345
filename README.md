@@ -65,12 +65,10 @@ The website includes several core sections such as Home, About Us, Services, Por
 **💡 Features**
 - Fully responsive design
 - Smooth scroll and animations
-- WhatsApp integration for direct communication
 - Clean, component-based architecture
 
 **🔗 Live Demo**
-
-[https://zonix-agency.vercel.app](https://zonix-agency.vercel.app)  
+https://zonix.netlify.app/
 *(Update the link if it's different)*
 
 **📂 Repository**
