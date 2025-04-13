@@ -28,14 +28,42 @@ Hello! I'm Hameed Gul, a dedicated Web Developer with a passion for creating dyn
 ## 📁 Projects
 
 Here are some of my key projects:
-## Doctor Admin Panel - React App
+## 🏥 Doctor Admin Panel – React App
+
 **🚀 Project Summary**  
-  The Doctor Admin Panel is a React-based dashboard for managing hospital operations efficiently. It provides an intuitive interface for doctors and administrators to handle patient records, prescriptions, and other essential healthcare tasks.
+The **Doctor Admin Panel** is a modern and responsive dashboard built with **React.js**, designed to streamline hospital operations. It provides doctors and administrators with a clean interface to manage patient records, prescriptions, and essential healthcare-related tasks with ease.
+
+Whether it’s viewing appointments or updating patient details, this panel enhances productivity and ensures smoother workflows in medical environments.
+
+---
 
 **🛠️ Technologies Used**
-- React.js (Frontend)
-- React Router (Navigation)
-- Tailwind CSS (Styling)
+- React.js (Frontend framework)
+- React Router DOM (Routing and navigation)
+- Tailwind CSS (Utility-first CSS for fast styling)
+- React Icons (For beautiful icons)
+- Vercel (Deployment)
+
+---
+
+**📁 Key Features**
+- Dashboard layout with sidebar and header
+- Patient records management
+- Responsive design (Mobile & Desktop)
+- Clean code structure with reusable components
+- Fast performance with lightweight UI
+- Easy to customize and extend
+
+---
+
+**📂 Project Structure**
+- `src/components` – Reusable UI components
+- `src/pages` – Main views (Dashboard, Patients, etc.)
+- `src/routes` – Route configurations
+- `src/assets` – Icons, images, and static assets
+
+---
+
 
 **🔗 Live Demo**
 
