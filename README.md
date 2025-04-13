@@ -41,9 +41,48 @@ Here are some of my key projects:
 
   https://doctor-admin-panel-pink.vercel.app
   
-3. **Personal Portfolio Website**  
-   - Created a responsive personal portfolio website showcasing my skills, projects, and contact information, utilizing animations and modern web design trends.
-   - Technologies: HTML, CSS, JavaScript, GSAP
+3.## Zonix – Creative Web Agency Website 🌐
+
+**🚀 Project Summary**  
+Zonix is a modern and responsive web agency website built with **Next.js**. The site showcases the services, portfolio, and vision of Zonix, a creative agency focused on delivering top-quality web solutions for businesses of all sizes.
+
+The website includes several core sections such as Home, About Us, Services, Portfolio, and Contact — all designed with a clean UI and smooth user experience in mind.
+
+**🛠️ Technologies Used**
+- Next.js (React Framework)
+- Tailwind CSS (Utility-first styling)
+- Framer Motion (Animations)
+- React Icons
+- Vercel (Deployment)
+
+**📁 Pages Included**
+- Home
+- About Us
+- Services
+- Portfolio
+- Contact Us
+
+**💡 Features**
+- Fully responsive design
+- Smooth scroll and animations
+- WhatsApp integration for direct communication
+- Clean, component-based architecture
+
+**🔗 Live Demo**
+
+[https://zonix-agency.vercel.app](https://zonix-agency.vercel.app)  
+*(Update the link if it's different)*
+
+**📂 Repository**
+
+[https://github.com/hameedgul12345/zonix](https://github.com/hameedgul12345/zonix)
+
+**✍️ Author**
+Hameed Gul – [@hameedgul12345](https://github.com/hameedgul12345)
+
+---
+
+Let me know if you want me to generate a logo preview or badges (like "Built with Next.js", "Deployed on Vercel", etc.) to enhance your README!
 
 4. **Real-Time Chat Application**  
    - Built a real-time chat application with private and group chat features, powered by WebSockets and Node.js.
