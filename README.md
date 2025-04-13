@@ -69,7 +69,6 @@ The website includes several core sections such as Home, About Us, Services, Por
 
 **🔗 Live Demo**
 https://zonix.netlify.app/
-*(Update the link if it's different)*
 
 **📂 Repository**
 
